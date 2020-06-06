@@ -1,0 +1,5 @@
+# leave out python files
+__pycache__
+
+# leave out actual config with secrets
+config.json
