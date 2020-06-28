@@ -5,8 +5,8 @@
 
 # imports
 import praw
-import logging
 import json
+import os
 
 # load configuration
 

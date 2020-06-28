@@ -2,4 +2,4 @@
 __pycache__
 
 # leave out actual config with secrets
-config.json
+secrets.json
