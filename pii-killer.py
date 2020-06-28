@@ -1,4 +1,4 @@
-#! /usr/bin/python3
+#!/usr/bin/python3
 
 # pii-killer.py
 # see README for functionality explanation
